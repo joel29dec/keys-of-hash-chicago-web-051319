@@ -5,6 +5,8 @@ class Hash
       return ["red-footed tortoise"]
     elsif arguments == "Madagascar"
       return ["aye-aye", "tomato frog"]
+    elsif arguments == "Australia"
+      return ["sugar glider", "kangaroo", "koala"]
     end
   end
 end
