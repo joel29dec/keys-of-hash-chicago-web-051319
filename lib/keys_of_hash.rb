@@ -3,6 +3,8 @@ class Hash
     # code goes here
     if arguments == "Panama"
       return ["red-footed tortoise"]
+    elsif arguments == "Madagascar"
+      return ["aye-aye", "tomato frog"]
     end
   end
 end
